@@ -1,0 +1,29 @@
+
+#tweetMe{
+    width: 100%;
+
+
+}
+
+body{
+    background-color: #1DA1F2
+}
+
+.container{
+    margin-top:6% ;
+    margin-left: 33%;
+    margin-right: 33%;
+border: 1.7px solid black;
+border-radius: 20px;
+padding: 20px;
+background-color: white;
+
+}
+
+#newQ{
+    display: inline;
+    border: 1px solid black;
+    border-radius: 14px;
+    padding: 5px;
+    background-color: seashell ;
+}
